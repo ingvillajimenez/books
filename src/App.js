@@ -53,3 +53,7 @@ export default App;
 
 // books git:(master) npm install json-server
 // books git:(master) ✗ npm run server
+
+// Extension: REST Client
+// Huachao Mao
+// REST Client for Visual Studio Code
