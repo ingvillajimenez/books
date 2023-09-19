@@ -50,3 +50,6 @@ export default App;
 // State Updates - Cheat Sheet
 
 // https://picsum.photos
+
+// books git:(master) npm install json-server
+// books git:(master) ✗ npm run server
