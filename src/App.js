@@ -6,6 +6,15 @@ import axios from "axios";
 function App() {
   const [books, setBooks] = useState([]);
 
+  const fetchBooks = async () => {
+    const response = await axios.get("http://localhost:3001/books");
+
+    setBooks(response.data);
+  };
+
+  // DONT DO THIS:
+  // fetchBooks();
+
   const editBookById = (id, newTitle) => {
     const updatedBooks = books.map((book) => {
       if (book.id === id) {
