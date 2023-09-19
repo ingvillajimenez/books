@@ -57,3 +57,6 @@ export default App;
 // Extension: REST Client
 // Huachao Mao
 // REST Client for Visual Studio Code
+
+// RequestError: connect ECONNREFUSED 127.0.0.1:3001"
+// solution -> "server" : "json-server --port 3001 --watch db.json --host 127.0.0.1"
