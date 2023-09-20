@@ -1,10 +1,6 @@
 {
   "books": [
     {
-      "title": "dora reina sabrosa",
-      "id": 1
-    },
-    {
       "title": "dora corazon",
       "id": 2
     }
