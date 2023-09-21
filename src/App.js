@@ -42,3 +42,6 @@ export default App;
 // books git:(master) npm install axios
 
 // codepen.io/sgrider/pen/BarEowz
+
+// codesandbox.io/s/hungry-fog-0ev1ec
+// Quick useEffect example
